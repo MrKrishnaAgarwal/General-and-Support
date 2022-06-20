@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the issue is about.
 
 #### Screenshots
-![Downhill Windmills](http://i.giphy.com/KO8AG2EByqkFi.gif)
+Attach Screenshots Here: [subject](url)
 
 #### Files
 A list of relevant files for this issue. This will help people navigate the project and offer some clues of where to start.

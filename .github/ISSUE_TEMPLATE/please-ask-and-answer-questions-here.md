@@ -2,8 +2,8 @@
 name: Please ask and answer questions here
 about: Help and Support & Ask Questions
 title: YOUR_TITLE_HERE
-labels: ''
-assignees: '@MrKrishnaAgarwal'
+labels: 'help wanted'
+assignees: 'MrKrishnaAgarwal'
 
 ---
 
